@@ -1,2 +1,3 @@
-# Mineria-de-datos
-Tareas y trabajos
+# Mineria-de-datos 
+## Tareas y trabajos
+### MAPA MENTAL
