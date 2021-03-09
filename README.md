@@ -7,3 +7,4 @@
 ### [LIMPIEZA DE DATOS BASE 2](Ej_LimpiezaConsumo_Equipo10.ipynb)
 ### [AVANCE PIA BASE PRINCIPAL](Avance_PIA_Eq10.ipynb)
 ### [AVANCE PIA BASE SECUNDARIA](Avance1_PIA_Equipo10.ipynb)
+### [CALIFICACIONES REGLAS DE ASOCIACION](Calificaci%C3%B3n_Reglas.De.Asociaci%C3%B3n_Equipo10.pdf)
