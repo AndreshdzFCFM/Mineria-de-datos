@@ -9,4 +9,5 @@
 ### [AVANCE PIA BASE PRINCIPAL](https://github.com/AndyCortez98/FCFM/blob/main/Avance_PIA_Eq10.ipynb)
 ### [AVANCE PIA BASE SECUNDARIA](https://github.com/AndyCortez98/FCFM/blob/main/Avance1_PIA_Equipo10.ipynb)
 # FASE II
+### [REGLAS DE ASOCIACION](https://github.com/AndyCortez98/FCFM/blob/main/Presentacion_Reglas.de.asociacion_Equipo10.pdf)
 ### [CALIFICACIONES REGLAS DE ASOCIACION](Calificaci%C3%B3n_Reglas.De.Asociaci%C3%B3n_Equipo10.pdf)
