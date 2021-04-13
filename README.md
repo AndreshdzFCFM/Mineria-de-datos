@@ -11,5 +11,5 @@
 # FASE II
 ### [REGLAS DE ASOCIACION](https://github.com/AndyCortez98/FCFM/blob/main/Presentacion_Reglas.de.asociacion_Equipo10.pdf)
 ### [CALIFICACIONES REGLAS DE ASOCIACION](Calificaci%C3%B3n_Reglas.De.Asociaci%C3%B3n_Equipo10.pdf)
-### [PRACTICA VISUALIZACION SUICIDIOS](https://github.com/SergioOviedoMartinez/Mineria-de-datos/blob/main/Visualizaci%C3%B3n1_Equipo10.ipynb)
-### [PRACTICA VISUALIZACION AUTOS-CONSUMO GASOLINA](https://github.com/SergioOviedoMartinez/Mineria-de-datos/blob/main/Visualizaci%C3%B3n2_Equipo10.ipynb)
+### [ VISUALIZACION SUICIDIOS](https://github.com/SergioOviedoMartinez/Mineria-de-datos/blob/main/Visualizaci%C3%B3n1_Equipo10.ipynb)
+### [ VISUALIZACION AUTOS-CONSUMO GASOLINA](https://github.com/SergioOviedoMartinez/Mineria-de-datos/blob/main/Visualizaci%C3%B3n2_Equipo10.ipynb)
