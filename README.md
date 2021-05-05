@@ -14,5 +14,9 @@
 ### [MAPA MENTAL 2](https://github.com/AndreshdzFCFM/Mineria-de-datos/blob/main/MapaMental2_1757180.pdf)
 ### [ VISUALIZACION SUICIDIOS](https://github.com/SergioOviedoMartinez/Mineria-de-datos/blob/main/Visualizaci%C3%B3n1_Equipo10.ipynb)
 ### [ VISUALIZACION AUTOS-CONSUMO GASOLINA](https://github.com/SergioOviedoMartinez/Mineria-de-datos/blob/main/Visualizaci%C3%B3n2_Equipo10.ipynb)
-### [AVANCE PIA 2 BASE PRINCIPAL](https://github.com/AndreshdzFCFM/Mineria-de-datos/blob/main/Avance%20PIA%202_EQ_10.ipynb)
-### [AVANCE PIA 2 BASE PRINCIPAL CORREGIDO](https://github.com/AndyCortez98/FCFM/blob/main/AvancePIA_II_Eq.10.ipynb)
+### [AVANCE PIA 2 ](https://github.com/AndreshdzFCFM/Mineria-de-datos/blob/main/Avance%20PIA%202_EQ_10.ipynb)
+### [AVANCE PIA 2 CORREGIDO](https://github.com/AndyCortez98/FCFM/blob/main/AvancePIA_II_Eq.10.ipynb)
+### [AVANCE PIA 2 FINAL](https://github.com/AndyCortez98/FCFM/blob/main/AvancePIA__II__10.ipynb) 
+# FASE III
+### [AVANCE DEL POSTER](https://github.com/AndyCortez98/FCFM/blob/main/Estadisticas%20del%20suicidio.pdf)
+### [POSTER](https://github.com/AndyCortez98/FCFM/blob/main/Estad%C3%ADsticas%20de%20suicidio%20de%20la%20OMS%20(2).pdf)
