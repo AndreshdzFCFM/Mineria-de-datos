@@ -18,5 +18,5 @@
 ### [AVANCE PIA 2 CORREGIDO](https://github.com/AndyCortez98/FCFM/blob/main/AvancePIA_II_Eq.10.ipynb)
 ### [AVANCE PIA 2 FINAL](https://github.com/AndyCortez98/FCFM/blob/main/AvancePIA__II__10.ipynb) 
 # FASE III
-### [AVANCE DEL POSTER](https://github.com/AndyCortez98/FCFM/blob/main/Estadisticas%20del%20suicidio.pdf)
+### [AVANCE DEL POSTÈR](https://github.com/AndyCortez98/FCFM/blob/main/Estadisticas%20del%20suicidio.pdf)
 ### [POSTER](https://github.com/AndyCortez98/FCFM/blob/main/Estad%C3%ADsticas%20de%20suicidio%20de%20la%20OMS%20(2).pdf)
